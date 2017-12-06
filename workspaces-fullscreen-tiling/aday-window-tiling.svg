@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2100"
+   height="4580"
+   viewBox="0 0 555.62499 1211.7917"
+   version="1.1"
+   id="svg1273"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="aday-tiling.svg"
+   inkscape:export-filename="/home/aday/checkout/london-ux2017-experiments/overview/aday-window-tiling.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1267" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.125"
+     inkscape:cx="-959.43334"
+     inkscape:cy="2434.4469"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-nodes="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1830" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1270">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,914.79167)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4947"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-892.44685)"><flowRegion
+         id="flowRegion4943"><rect
+           id="rect4941"
+           width="313.60184"
+           height="66.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara4945"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:37.33333206px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'">Window grouping</flowPara></flowRoot>    <rect
+       y="-832.10944"
+       x="26.590624"
+       height="92.868752"
+       width="158.48543"
+       id="rect4949"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4951"
+       width="78.84584"
+       height="88.635414"
+       x="106.23022"
+       y="-827.87616" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4953"
+       width="158.48543"
+       height="4.2333288"
+       x="26.590628"
+       y="-832.10944" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4955"
+       width="158.48543"
+       height="92.868752"
+       x="26.590628"
+       y="-654.3092" />
+    <rect
+       y="-650.07593"
+       x="106.23009"
+       height="88.635414"
+       width="78.84584"
+       id="rect4957"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-654.3092"
+       x="26.590628"
+       height="4.2333288"
+       width="158.48543"
+       id="rect4959"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4961"
+       width="158.48543"
+       height="92.868752"
+       x="206.50735"
+       y="-832.10931" />
+    <rect
+       y="-823.37823"
+       x="288.26358"
+       height="79.904167"
+       width="71.17292"
+       id="rect4963"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-832.10931"
+       x="206.50735"
+       height="4.2333288"
+       width="158.48543"
+       id="rect4965"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-654.3092"
+       x="206.50731"
+       height="92.868752"
+       width="158.48543"
+       id="rect4967"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4971"
+       width="158.48543"
+       height="4.2333288"
+       x="206.50731"
+       y="-654.3092" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4969"
+       width="71.437508"
+       height="79.90416"
+       x="285.61761"
+       y="-645.57806" />
+    <rect
+       y="-645.57806"
+       x="214.18019"
+       height="79.904167"
+       width="71.437508"
+       id="rect4973"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-796.12622"
+       x="42.730228"
+       height="46.302078"
+       width="78.84584"
+       id="rect4981"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4983"
+       width="70.90834"
+       height="41.539581"
+       x="211.53448"
+       y="-801.94702" />
+    <rect
+       y="-520.42999"
+       x="26.590628"
+       height="92.868752"
+       width="158.48543"
+       id="rect4985"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4987"
+       width="78.84584"
+       height="88.635414"
+       x="106.23013"
+       y="-516.19666" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4989"
+       width="158.48543"
+       height="4.2333288"
+       x="26.590628"
+       y="-520.42999" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4991"
+       width="158.48543"
+       height="92.868752"
+       x="206.50731"
+       y="-520.42999" />
+    <rect
+       y="-520.42999"
+       x="206.50731"
+       height="4.2333288"
+       width="158.48543"
+       id="rect4993"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g5013"
+       transform="translate(-216.1643,-795.86669)">
+      <rect
+         style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4995"
+         width="46.302059"
+         height="51.594013"
+         x="528.50488"
+         y="298.1904" />
+      <rect
+         y="298.1904"
+         x="482.20285"
+         height="51.594017"
+         width="46.302059"
+         id="rect4997"
+         style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4999"
+       width="78.84584"
+       height="46.302078"
+       x="42.730217"
+       y="-484.44675" />
+    <rect
+       y="-485.2406"
+       x="213.12199"
+       height="26.722916"
+       width="45.772919"
+       id="rect5003"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-853.02402)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5021"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5017"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="66.29126"
+           width="313.60184"
+           id="rect5015"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowPara5019">One window half-screen snapped</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5029"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172824,-708.29687)"><flowRegion
+         style="line-height:50%"
+         id="flowRegion5025"><rect
+           style="line-height:50%"
+           id="rect5023"
+           width="593.61615"
+           height="163.87199"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara5027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:Cantarell">When two windows are snapped on opposite sides at the same time, they are grouped. When this happens, their relative sizes can be adjusted by dragging the join.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167691,-692.95099)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5037"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5033"
+         style="line-height:50%"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="165.28621"
+           width="597.85883"
+           id="rect5031"
+           style="line-height:50%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara5035">Joined snapped windows are treated like any other window - they can be obscured and share workspaces with other windows.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5053"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,174.89948,-849.05527)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowRegion5049"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+           id="rect5047"
+           width="596.44458"
+           height="190.74205"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara5051"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">Activities overview</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-362.22174)"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot155"
+       xml:space="preserve"><flowRegion
+         id="flowRegion151"
+         style="font-size:21.33333397px"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="88.29126"
+           width="762.60187"
+           id="rect149"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowPara153">Existing approach</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect157"
+       width="158.48543"
+       height="92.868752"
+       x="26.590624"
+       y="-329.40088" />
+    <rect
+       y="-329.40088"
+       x="26.590624"
+       height="4.2333288"
+       width="158.48543"
+       id="rect161"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot171"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-355.60727)"><flowRegion
+         id="flowRegion167"><rect
+           id="rect165"
+           width="596.60187"
+           height="97.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell">Highlight is shown when dragging against the screen edge</flowPara></flowRoot>    <rect
+       y="-325.16757"
+       x="106.23019"
+       height="88.635414"
+       width="78.84584"
+       id="rect207"
+       style="opacity:0.41300001;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect163"
+       width="70.114594"
+       height="46.302078"
+       x="54.901356"
+       y="-292.88852" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect205"
+       width="70.114594"
+       height="46.302078"
+       x="114.96145"
+       y="-309.29269" />
+    <image
+       y="-293.54999"
+       x="159.01505"
+       id="image183"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA0NJREFU WIXtlc9LK1cUxz+THx11MhJRCDSSqkW0TF8pdGfprtK/IFmYakFBcKmb/gVu7EKxa5eCEVE0BcEf LW4iTam0Im/T2i4Eo2DFZBLTjJk5b2EMqcYYfcJb1A9cOPdw75zvuefOufDCC/93lMduEBEF+Az4 APgX+FFRlPxzC7sPpVAozEsF2Wz2V6AZ8PKEhB7ENM2P8/n868qg0WhUPB6P9PX1lX3pdPr16urq J8B7zylEyeVyvyQSiWI4HJZwOCxra2vS09MjgLjdbtnY2JCJiQnZ398vHh0d/Q50A02A6zkEeG3b tqPRqAACyPLysni93vI8Ho9LKBSSoaEhERFnb2/vp4ODg++np6c/BXTeojQKoIqIRCKRcsDR0dGy Dcj4+Li4XC4JBAJycXEh29vbdiqVKlqWdTU1NTUOfAho1Hsii4uL7kKh8ENlzSsFBIPB/wgIBAJl e3h4WADxer2ysLDgmKaZB74BPgIa6onvOjs7+7pYLDojIyMSDofvCKg1NE0r25FIREREgG+Bz7n+ U+7guTX3Oo4T3dzclLm5uUfXLZfLVXO7S6NqCW47lebm5i/W19ef5QbXw+0TEFVVtZOTk7Jja2uL 09NTAPx+P47j4PP5OD4+prW1Fcuy0HUdy7IoFAr4fD5SqVTdAh7MtL+/n52dHQB6e3vJZDJks1kA Ojs7MU0TESEUCmGaJh7P7Zxqc+cEai3u6OhA13UMw2BmZgbDMPD7/RiGQSaToaWlBcMwmJ2dfTsB qqqiadqdxfF4nGAwSDKZRNM0lpaWaG9vJ5lMYtt22dY0DVVVnySAy8vLf7q6ulp1Xa+6IZPJ0NjY WJ6n02mamprK9o1wn8+H4zg1T7SqANM0fx4YGPgqFou5bduuK4tqdHd3c35+fvNM3/SHBwVILBab HBsb+3J+fl5ZWVlxWZb16OANDQ0MDg46u7u7fwAFIA8U69mrAPrk5GTk8PDwz6urK1uegGVZxUQi 8VdbW9t3wADQwfWjVDXgbVxct81O4BXwPvX18cpvSSnzI+A34G/gkipluK/dugC1JMRfsqutFcAG nCr+K8AEMoBVZU1NAZVCbsZ93HfBpBT0wT/hhRfeKW8ARlXTgSNgT+sAAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="8.4666662"
+       width="8.4666672" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.01077,-289.18436 h 4.49791"
+       id="path199"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path201"
+       d="m 171.45035,-290.32955 1.05833,1.19062"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.45035,-288.03929 1.05833,-1.19062"
+       id="path203"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="-141.01753"
+       x="26.590624"
+       height="92.868752"
+       width="158.48543"
+       id="rect1014"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1016"
+       width="158.48543"
+       height="4.2333288"
+       x="26.590624"
+       y="-141.01753" />
+    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-194.21138)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1024"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1020"
+         style="line-height:55.00000119%"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="78.906487"
+           width="992.58167"
+           id="rect1018"
+           style="line-height:55.00000119%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara1022">After snapping one window, the other windows on the workspace spread out, allowing one to be selected for the other side. Focusing the first window cancels this selection step. It is only shown for half tiling, and not quarter tiling.</flowPara></flowRoot>    <rect
+       style="opacity:0.41300001;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1026"
+       width="78.84584"
+       height="88.635414"
+       x="106.23019"
+       y="-136.78424" />
+    <rect
+       y="-104.5052"
+       x="54.901356"
+       height="46.302078"
+       width="70.114594"
+       id="rect1028"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-120.90937"
+       x="114.96145"
+       height="46.302078"
+       width="70.114594"
+       id="rect1030"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       width="8.4666672"
+       height="8.4666662"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA0NJREFU WIXtlc9LK1cUxz+THx11MhJRCDSSqkW0TF8pdGfprtK/IFmYakFBcKmb/gVu7EKxa5eCEVE0BcEf LW4iTam0Im/T2i4Eo2DFZBLTjJk5b2EMqcYYfcJb1A9cOPdw75zvuefOufDCC/93lMduEBEF+Az4 APgX+FFRlPxzC7sPpVAozEsF2Wz2V6AZ8PKEhB7ENM2P8/n868qg0WhUPB6P9PX1lX3pdPr16urq J8B7zylEyeVyvyQSiWI4HJZwOCxra2vS09MjgLjdbtnY2JCJiQnZ398vHh0d/Q50A02A6zkEeG3b tqPRqAACyPLysni93vI8Ho9LKBSSoaEhERFnb2/vp4ODg++np6c/BXTeojQKoIqIRCKRcsDR0dGy Dcj4+Li4XC4JBAJycXEh29vbdiqVKlqWdTU1NTUOfAho1Hsii4uL7kKh8ENlzSsFBIPB/wgIBAJl e3h4WADxer2ysLDgmKaZB74BPgIa6onvOjs7+7pYLDojIyMSDofvCKg1NE0r25FIREREgG+Bz7n+ U+7guTX3Oo4T3dzclLm5uUfXLZfLVXO7S6NqCW47lebm5i/W19ef5QbXw+0TEFVVtZOTk7Jja2uL 09NTAPx+P47j4PP5OD4+prW1Fcuy0HUdy7IoFAr4fD5SqVTdAh7MtL+/n52dHQB6e3vJZDJks1kA Ojs7MU0TESEUCmGaJh7P7Zxqc+cEai3u6OhA13UMw2BmZgbDMPD7/RiGQSaToaWlBcMwmJ2dfTsB qqqiadqdxfF4nGAwSDKZRNM0lpaWaG9vJ5lMYtt22dY0DVVVnySAy8vLf7q6ulp1Xa+6IZPJ0NjY WJ6n02mamprK9o1wn8+H4zg1T7SqANM0fx4YGPgqFou5bduuK4tqdHd3c35+fvNM3/SHBwVILBab HBsb+3J+fl5ZWVlxWZb16OANDQ0MDg46u7u7fwAFIA8U69mrAPrk5GTk8PDwz6urK1uegGVZxUQi 8VdbW9t3wADQwfWjVDXgbVxct81O4BXwPvX18cpvSSnzI+A34G/gkipluK/dugC1JMRfsqutFcAG nCr+K8AEMoBVZU1NAZVCbsZ93HfBpBT0wT/hhRfeKW8ARlXTgSNgT+sAAAAASUVORK5CYII= "
+       id="image1032"
+       x="159.01505"
+       y="-105.16666" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1034"
+       d="m 168.01077,-100.80101 h 4.49791"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.45035,-101.9462 1.05833,1.19062"
+       id="path1036"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1038"
+       d="m 171.45035,-99.655942 1.05833,-1.190618"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1040"
+       width="158.48543"
+       height="92.868752"
+       x="201.21609"
+       y="-141.01753" />
+    <rect
+       y="-141.01753"
+       x="201.21609"
+       height="4.2333288"
+       width="158.48543"
+       id="rect1042"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="-136.78424"
+       x="280.8559"
+       height="88.635414"
+       width="78.84584"
+       id="rect1044"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1046"
+       width="38.36459"
+       height="25.135416"
+       x="221.06033"
+       y="-133.34477" />
+    <rect
+       y="-105.29893"
+       x="221.06033"
+       height="25.135416"
+       width="38.36459"
+       id="rect1058"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1060"
+       width="38.36459"
+       height="25.135416"
+       x="221.06033"
+       y="-77.25312" />
+    <image
+       width="8.4666672"
+       height="8.4666662"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA/FJREFU WIXt1l9I21cUwPFvrCbralDzZ+rIHMi0cyubKWPoNjtb7MP0QQoV7NZJfRlZOioIjpVMhlIqVXAP w/mwh47SZFgGUytIaQuCM0P3MmROgtg2rSAUopUtpSb35uwhiQ2ittbMMdiB83Z/nM/93XvPvfB/ rAsRsf1rxR0Ox95IJPK7y+U6AJiBjF0F2O32bBGR+/fvB6qqqt7edUReXl6OiEgsFpO7d+8GnE7n W7uKSAK6u7tleXlZB4PBmbKysoNA9q4gkoCmpiY5cuSIrKys6Nu3b0+Xlpa+Cez7xxFJwMmTJ8Vq tUp9fb2Ew2EdCAR+LSgoeD2BMKSz5oYz0lqjlGJqaopTp05lFBUVHbxx40a/2Wx+CdibTsSWAKUU k5OTuN3ujJKSkvf8fv+3JpPJATyXLsSGABFZAyilGB8fp62tzVBWVlY9MTHxNfAiYEoHYtNNlQpQ SnH9+nXOnj1rcDqdH0xMTHQBhelAbApIXYZkXrt2jXPnzhkqKioaxsbGOoB8wLgTxJbHaj1AKcXV q1fp6enh0KFDH9+8efMroGAniG0DlFIMDQ3R39/P4cOHm0dGRj4HXnhWxJaA9ZsxNa9cucLly5ep ra11Dw8PtwJ2IGu7iCd2ts0ASikuXbrEwMAAdXV1LQMDA58Ctu0iMp80IBaLrRU0GAwcPXoUo9GI yWTCaDRy69Yt7ty5Yzh+/PgXFy9efNTc3PwdEAKiT4tYi2QrbmhoEGAtMzMzxWw2S35+vvj9ftks lFJRr9f7GZCbtj8A4HK58Pl8KKXo6+ujsrKSY8eOfT84OPgb8CegE9iHwALx/rD92OgPdHR0iIhI a2ur5OTkSGFhoczOzuqpqakZoBZ4FXgZKAIcxE/E82kBdHV1idZa5ufnFxcXF7XVahWbzSanT58W rXWssbHRRbwtZwF7EpnBszamVEBvb69orWMXLlwYcjqdX66urqozZ85Ibm6uOBwOCQaD2u/3/wwc IF2XUxIwPT0tSqlYZ2fnj8BHQMXMzMxPCwsLymKxiN1uF4/HI5FIRNXU1HxI/Pjt/LGSBESjUd3e 3v4DcAJ4DcjzeDzvRKNR5Xa7xWKxSHFxsTx48ED7fD4f8ArxZdg5QGsdOX/+/DdAA/ENto/42ubM zc0NBYNBZbPZpLy8XEKhkPZ6vcPAG6Tjerbb7dmjo6OfAO8CJTx+BxqArM7OzspwOPwwFAoppVTs 3r17of3797cApTzjXbD+gywezzgMrBI/jsmx2S0tLe9XV1efCAQCke7u7l+Wlpb+AGaBZSC2U4CB +IxTO2Fq7EkArcTfho8Shf8C1Abjtw14mshIyVgiN8L+N+Jvg/VIDxUjx1EAAAAASUVORK5CYII= "
+       id="image1062"
+       x="238.91946"
+       y="-123.68752" />
+    <rect
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.26458332;marker:none;enable-background:new"
+       id="rect3435"
+       y="-96.699837"
+       x="191.55838"
+       height="4.2333331"
+       width="4.2333336" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 194.58455,-94.583155 -1.51308,1.513086 c -0.0518,0.05182 -0.12254,0.07441 -0.19017,0.07441 h -0.26459 v -0.264583 c 0,-0.06763 0.0226,-0.138346 0.0744,-0.190169 l 1.13275,-1.132748 -1.13275,-1.132747 c -0.0518,-0.05182 -0.0744,-0.122537 -0.0744,-0.190169 v -0.264584 h 0.26459 c 0.0676,0 0.13834,0.0226 0.19017,0.07441 z"
+       id="path3437"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccsscscc" />
+    <path
+       sodipodi:nodetypes="ccscsccsscscc"
+       inkscape:connector-curvature="0"
+       id="path3476"
+       d="m 369.73873,-94.583155 -1.51309,1.513086 c -0.0518,0.05182 -0.12254,0.07441 -0.19017,0.07441 h -0.26458 v -0.264583 c 0,-0.06763 0.0226,-0.138346 0.0744,-0.190169 l 1.13275,-1.132748 -1.13275,-1.132747 c -0.0518,-0.05182 -0.0744,-0.122537 -0.0744,-0.190169 v -0.264584 h 0.26458 c 0.0676,0 0.13835,0.0226 0.19017,0.07441 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <rect
+       y="-141.01753"
+       x="376.90009"
+       height="92.868752"
+       width="158.48543"
+       id="rect3462"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3464"
+       width="158.48543"
+       height="4.2333288"
+       x="376.90009"
+       y="-141.01753" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3466"
+       width="78.84584"
+       height="88.635414"
+       x="456.53986"
+       y="-136.78424" />
+    <image
+       y="-123.68752"
+       x="414.60345"
+       id="image3474"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA/FJREFU WIXt1l9I21cUwPFvrCbralDzZ+rIHMi0cyubKWPoNjtb7MP0QQoV7NZJfRlZOioIjpVMhlIqVXAP w/mwh47SZFgGUytIaQuCM0P3MmROgtg2rSAUopUtpSb35uwhiQ2ittbMMdiB83Z/nM/93XvPvfB/ rAsRsf1rxR0Ox95IJPK7y+U6AJiBjF0F2O32bBGR+/fvB6qqqt7edUReXl6OiEgsFpO7d+8GnE7n W7uKSAK6u7tleXlZB4PBmbKysoNA9q4gkoCmpiY5cuSIrKys6Nu3b0+Xlpa+Cez7xxFJwMmTJ8Vq tUp9fb2Ew2EdCAR+LSgoeD2BMKSz5oYz0lqjlGJqaopTp05lFBUVHbxx40a/2Wx+CdibTsSWAKUU k5OTuN3ujJKSkvf8fv+3JpPJATyXLsSGABFZAyilGB8fp62tzVBWVlY9MTHxNfAiYEoHYtNNlQpQ SnH9+nXOnj1rcDqdH0xMTHQBhelAbApIXYZkXrt2jXPnzhkqKioaxsbGOoB8wLgTxJbHaj1AKcXV q1fp6enh0KFDH9+8efMroGAniG0DlFIMDQ3R39/P4cOHm0dGRj4HXnhWxJaA9ZsxNa9cucLly5ep ra11Dw8PtwJ2IGu7iCd2ts0ASikuXbrEwMAAdXV1LQMDA58Ctu0iMp80IBaLrRU0GAwcPXoUo9GI yWTCaDRy69Yt7ty5Yzh+/PgXFy9efNTc3PwdEAKiT4tYi2QrbmhoEGAtMzMzxWw2S35+vvj9ftks lFJRr9f7GZCbtj8A4HK58Pl8KKXo6+ujsrKSY8eOfT84OPgb8CegE9iHwALx/rD92OgPdHR0iIhI a2ur5OTkSGFhoczOzuqpqakZoBZ4FXgZKAIcxE/E82kBdHV1idZa5ufnFxcXF7XVahWbzSanT58W rXWssbHRRbwtZwF7EpnBszamVEBvb69orWMXLlwYcjqdX66urqozZ85Ibm6uOBwOCQaD2u/3/wwc IF2XUxIwPT0tSqlYZ2fnj8BHQMXMzMxPCwsLymKxiN1uF4/HI5FIRNXU1HxI/Pjt/LGSBESjUd3e 3v4DcAJ4DcjzeDzvRKNR5Xa7xWKxSHFxsTx48ED7fD4f8ArxZdg5QGsdOX/+/DdAA/ENto/42ubM zc0NBYNBZbPZpLy8XEKhkPZ6vcPAG6Tjerbb7dmjo6OfAO8CJTx+BxqArM7OzspwOPwwFAoppVTs 3r17of3797cApTzjXbD+gywezzgMrBI/jsmx2S0tLe9XV1efCAQCke7u7l+Wlpb+AGaBZSC2U4CB +IxTO2Fq7EkArcTfho8Shf8C1Abjtw14mshIyVgiN8L+N+Jvg/VIDxUjx1EAAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="8.4666662"
+       width="8.4666672" />
+    <rect
+       y="24.611609"
+       x="201.21609"
+       height="92.868752"
+       width="158.48543"
+       id="rect3478"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3480"
+       width="158.48543"
+       height="4.2333288"
+       x="201.21609"
+       y="24.611609" />
+    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-8.4738245)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3488"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3484"
+         style="line-height:55.00000119%"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="83.149124"
+           width="1009.5522"
+           id="rect3482"
+           style="line-height:55.00000119%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara3486">This could be done when the second window is an obvious choice? (eg. if there's only two windows visible, or two windows on the workspace). However, it would result in inconsistent behavior - in some cases the second window would be automatically snapped, and in some it wouldn't. Also, how would the preview be presented prior to releasing the drag operation?</flowPara></flowRoot>    <rect
+       style="opacity:0.41300001;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3490"
+       width="79.110069"
+       height="88.63546"
+       x="280.59167"
+       y="28.844854" />
+    <rect
+       y="44.71978"
+       x="289.58716"
+       height="46.302078"
+       width="70.114594"
+       id="rect3494"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       width="8.4666672"
+       height="8.4666662"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA0NJREFU WIXtlc9LK1cUxz+THx11MhJRCDSSqkW0TF8pdGfprtK/IFmYakFBcKmb/gVu7EKxa5eCEVE0BcEf LW4iTam0Im/T2i4Eo2DFZBLTjJk5b2EMqcYYfcJb1A9cOPdw75zvuefOufDCC/93lMduEBEF+Az4 APgX+FFRlPxzC7sPpVAozEsF2Wz2V6AZ8PKEhB7ENM2P8/n868qg0WhUPB6P9PX1lX3pdPr16urq J8B7zylEyeVyvyQSiWI4HJZwOCxra2vS09MjgLjdbtnY2JCJiQnZ398vHh0d/Q50A02A6zkEeG3b tqPRqAACyPLysni93vI8Ho9LKBSSoaEhERFnb2/vp4ODg++np6c/BXTeojQKoIqIRCKRcsDR0dGy Dcj4+Li4XC4JBAJycXEh29vbdiqVKlqWdTU1NTUOfAho1Hsii4uL7kKh8ENlzSsFBIPB/wgIBAJl e3h4WADxer2ysLDgmKaZB74BPgIa6onvOjs7+7pYLDojIyMSDofvCKg1NE0r25FIREREgG+Bz7n+ U+7guTX3Oo4T3dzclLm5uUfXLZfLVXO7S6NqCW47lebm5i/W19ef5QbXw+0TEFVVtZOTk7Jja2uL 09NTAPx+P47j4PP5OD4+prW1Fcuy0HUdy7IoFAr4fD5SqVTdAh7MtL+/n52dHQB6e3vJZDJks1kA Ojs7MU0TESEUCmGaJh7P7Zxqc+cEai3u6OhA13UMw2BmZgbDMPD7/RiGQSaToaWlBcMwmJ2dfTsB qqqiadqdxfF4nGAwSDKZRNM0lpaWaG9vJ5lMYtt22dY0DVVVnySAy8vLf7q6ulp1Xa+6IZPJ0NjY WJ6n02mamprK9o1wn8+H4zg1T7SqANM0fx4YGPgqFou5bduuK4tqdHd3c35+fvNM3/SHBwVILBab HBsb+3J+fl5ZWVlxWZb16OANDQ0MDg46u7u7fwAFIA8U69mrAPrk5GTk8PDwz6urK1uegGVZxUQi 8VdbW9t3wADQwfWjVDXgbVxct81O4BXwPvX18cpvSSnzI+A34G/gkipluK/dugC1JMRfsqutFcAG nCr+K8AEMoBVZU1NAZVCbsZ93HfBpBT0wT/hhRfeKW8ARlXTgSNgT+sAAAAASUVORK5CYII= "
+       id="image3496"
+       x="333.64075"
+       y="60.462517" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3498"
+       d="m 342.63589,64.828266 h 4.49791"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 346.07547,63.683076 1.05833,1.19062"
+       id="path3500"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3502"
+       d="m 346.07547,65.973336 1.05833,-1.19062"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <rect
+       y="23.55335"
+       x="375.8418"
+       height="92.868752"
+       width="158.48543"
+       id="rect3504"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3506"
+       width="158.48543"
+       height="4.2333288"
+       x="375.8418"
+       y="23.55335" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3508"
+       width="78.84584"
+       height="88.635414"
+       x="455.48157"
+       y="27.786673" />
+    <image
+       y="40.883369"
+       x="471.75372"
+       id="image3516"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA/FJREFU WIXt1l9I21cUwPFvrCbralDzZ+rIHMi0cyubKWPoNjtb7MP0QQoV7NZJfRlZOioIjpVMhlIqVXAP w/mwh47SZFgGUytIaQuCM0P3MmROgtg2rSAUopUtpSb35uwhiQ2ittbMMdiB83Z/nM/93XvPvfB/ rAsRsf1rxR0Ox95IJPK7y+U6AJiBjF0F2O32bBGR+/fvB6qqqt7edUReXl6OiEgsFpO7d+8GnE7n W7uKSAK6u7tleXlZB4PBmbKysoNA9q4gkoCmpiY5cuSIrKys6Nu3b0+Xlpa+Cez7xxFJwMmTJ8Vq tUp9fb2Ew2EdCAR+LSgoeD2BMKSz5oYz0lqjlGJqaopTp05lFBUVHbxx40a/2Wx+CdibTsSWAKUU k5OTuN3ujJKSkvf8fv+3JpPJATyXLsSGABFZAyilGB8fp62tzVBWVlY9MTHxNfAiYEoHYtNNlQpQ SnH9+nXOnj1rcDqdH0xMTHQBhelAbApIXYZkXrt2jXPnzhkqKioaxsbGOoB8wLgTxJbHaj1AKcXV q1fp6enh0KFDH9+8efMroGAniG0DlFIMDQ3R39/P4cOHm0dGRj4HXnhWxJaA9ZsxNa9cucLly5ep ra11Dw8PtwJ2IGu7iCd2ts0ASikuXbrEwMAAdXV1LQMDA58Ctu0iMp80IBaLrRU0GAwcPXoUo9GI yWTCaDRy69Yt7ty5Yzh+/PgXFy9efNTc3PwdEAKiT4tYi2QrbmhoEGAtMzMzxWw2S35+vvj9ftks lFJRr9f7GZCbtj8A4HK58Pl8KKXo6+ujsrKSY8eOfT84OPgb8CegE9iHwALx/rD92OgPdHR0iIhI a2ur5OTkSGFhoczOzuqpqakZoBZ4FXgZKAIcxE/E82kBdHV1idZa5ufnFxcXF7XVahWbzSanT58W rXWssbHRRbwtZwF7EpnBszamVEBvb69orWMXLlwYcjqdX66urqozZ85Ibm6uOBwOCQaD2u/3/wwc IF2XUxIwPT0tSqlYZ2fnj8BHQMXMzMxPCwsLymKxiN1uF4/HI5FIRNXU1HxI/Pjt/LGSBESjUd3e 3v4DcAJ4DcjzeDzvRKNR5Xa7xWKxSHFxsTx48ED7fD4f8ArxZdg5QGsdOX/+/DdAA/ENto/42ubM zc0NBYNBZbPZpLy8XEKhkPZ6vcPAG6Tjerbb7dmjo6OfAO8CJTx+BxqArM7OzspwOPwwFAoppVTs 3r17of3797cApTzjXbD+gywezzgMrBI/jsmx2S0tLe9XV1efCAQCke7u7l+Wlpb+AGaBZSC2U4CB +IxTO2Fq7EkArcTfho8Shf8C1Abjtw14mshIyVgiN8L+N+Jvg/VIDxUjx1EAAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="8.4666662"
+       width="8.4666672" />
+    <rect
+       width="4.2333336"
+       height="4.2333331"
+       x="366.18408"
+       y="67.871086"
+       id="rect3521"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.26458332;marker:none;enable-background:new" />
+    <path
+       sodipodi:nodetypes="ccscsccsscscc"
+       inkscape:connector-curvature="0"
+       id="path3523"
+       d="m 369.20967,69.987766 -1.51308,1.51309 c -0.0518,0.0518 -0.12254,0.0744 -0.19017,0.0744 h -0.26459 v -0.26458 c 0,-0.0676 0.0226,-0.13835 0.0744,-0.19017 l 1.13275,-1.13275 -1.13275,-1.13275 c -0.0518,-0.0518 -0.0744,-0.12254 -0.0744,-0.19017 v -0.26458 h 0.26459 c 0.0676,0 0.13834,0.0226 0.19017,0.0744 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <rect
+       y="28.844854"
+       x="201.21609"
+       height="88.63546"
+       width="79.110756"
+       id="rect3525"
+       style="opacity:0.41300001;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="61.123955"
+       x="229.52695"
+       height="46.302078"
+       width="70.114594"
+       id="rect3492"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3533"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-176.74888)"><flowRegion
+         style="line-height:55.00000119%"
+         id="flowRegion3529"><rect
+           style="line-height:55.00000119%"
+           id="rect3527"
+           width="1022.2802"
+           height="56.279064"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara3531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell">Would it make sense to require the second window to be selected in order to group?</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9133"
+       width="158.48543"
+       height="92.868752"
+       x="26.590624"
+       y="23.55335" />
+    <rect
+       y="23.55335"
+       x="26.590624"
+       height="4.2333288"
+       width="158.48543"
+       id="rect9135"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="27.786673"
+       x="106.23019"
+       height="88.635414"
+       width="78.84584"
+       id="rect9137"
+       style="opacity:0.41300001;fill:#729fcf;fill-opacity:1;stroke:#3465a4;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9139"
+       width="70.114594"
+       height="46.302078"
+       x="54.901356"
+       y="60.065727" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9141"
+       width="70.114594"
+       height="46.302078"
+       x="114.96145"
+       y="43.661522" />
+    <image
+       y="59.404259"
+       x="159.01505"
+       id="image9143"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAA0NJREFU WIXtlc9LK1cUxz+THx11MhJRCDSSqkW0TF8pdGfprtK/IFmYakFBcKmb/gVu7EKxa5eCEVE0BcEf LW4iTam0Im/T2i4Eo2DFZBLTjJk5b2EMqcYYfcJb1A9cOPdw75zvuefOufDCC/93lMduEBEF+Az4 APgX+FFRlPxzC7sPpVAozEsF2Wz2V6AZ8PKEhB7ENM2P8/n868qg0WhUPB6P9PX1lX3pdPr16urq J8B7zylEyeVyvyQSiWI4HJZwOCxra2vS09MjgLjdbtnY2JCJiQnZ398vHh0d/Q50A02A6zkEeG3b tqPRqAACyPLysni93vI8Ho9LKBSSoaEhERFnb2/vp4ODg++np6c/BXTeojQKoIqIRCKRcsDR0dGy Dcj4+Li4XC4JBAJycXEh29vbdiqVKlqWdTU1NTUOfAho1Hsii4uL7kKh8ENlzSsFBIPB/wgIBAJl e3h4WADxer2ysLDgmKaZB74BPgIa6onvOjs7+7pYLDojIyMSDofvCKg1NE0r25FIREREgG+Bz7n+ U+7guTX3Oo4T3dzclLm5uUfXLZfLVXO7S6NqCW47lebm5i/W19ef5QbXw+0TEFVVtZOTk7Jja2uL 09NTAPx+P47j4PP5OD4+prW1Fcuy0HUdy7IoFAr4fD5SqVTdAh7MtL+/n52dHQB6e3vJZDJks1kA Ojs7MU0TESEUCmGaJh7P7Zxqc+cEai3u6OhA13UMw2BmZgbDMPD7/RiGQSaToaWlBcMwmJ2dfTsB qqqiadqdxfF4nGAwSDKZRNM0lpaWaG9vJ5lMYtt22dY0DVVVnySAy8vLf7q6ulp1Xa+6IZPJ0NjY WJ6n02mamprK9o1wn8+H4zg1T7SqANM0fx4YGPgqFou5bduuK4tqdHd3c35+fvNM3/SHBwVILBab HBsb+3J+fl5ZWVlxWZb16OANDQ0MDg46u7u7fwAFIA8U69mrAPrk5GTk8PDwz6urK1uegGVZxUQi 8VdbW9t3wADQwfWjVDXgbVxct81O4BXwPvX18cpvSSnzI+A34G/gkipluK/dugC1JMRfsqutFcAG nCr+K8AEMoBVZU1NAZVCbsZ93HfBpBT0wT/hhRfeKW8ARlXTgSNgT+sAAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="8.4666662"
+       width="8.4666672" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.01077,63.769906 h 4.49791"
+       id="path9145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9147"
+       d="m 171.45035,62.624716 1.05833,1.19062"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 171.45035,64.914976 1.05833,-1.19062"
+       id="path9149"
+       inkscape:connector-curvature="0" />
+    <rect
+       width="4.2333336"
+       height="4.2333331"
+       x="191.55838"
+       y="67.871086"
+       id="rect9151"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.26458332;marker:none;enable-background:new" />
+    <path
+       sodipodi:nodetypes="ccscsccsscscc"
+       inkscape:connector-curvature="0"
+       id="path9153"
+       d="m 194.58455,69.987766 -1.51308,1.51309 c -0.0518,0.0518 -0.12254,0.0744 -0.19017,0.0744 h -0.26459 v -0.26458 c 0,-0.0676 0.0226,-0.13835 0.0744,-0.19017 l 1.13275,-1.13275 -1.13275,-1.13275 c -0.0518,-0.0518 -0.0744,-0.12254 -0.0744,-0.19017 v -0.26458 h 0.26459 c 0.0676,0 0.13834,0.0226 0.19017,0.0744 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-155.58222)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot2224"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2220"
+         style="line-height:55.00000119%"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="97.29126"
+           width="596.60187"
+           id="rect2218"
+           style="line-height:55.00000119%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara2222">Initial drag to side of screen</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2232"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,169.60842,-155.58222)"><flowRegion
+         style="line-height:55.00000119%"
+         id="flowRegion2228"><rect
+           style="line-height:55.00000119%"
+           id="rect2226"
+           width="596.60187"
+           height="97.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara2230"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell">Drag and drop is completed - window picker fills the other side of the screen</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,344.76271,-155.58222)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6442"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6438"
+         style="line-height:55.00000119%"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="97.29126"
+           width="596.60187"
+           id="rect6436"
+           style="line-height:55.00000119%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         id="flowPara6440">Second window is selected</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6450"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-206.11755)"><flowRegion
+         style="font-size:21.33333397px"
+         id="flowRegion6446"><rect
+           style="font-size:21.33333397px"
+           id="rect6444"
+           width="762.60187"
+           height="88.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6448"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'">Select second window using a picker</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,-19.850874)"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6458"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6454"
+         style="font-size:21.33333397px"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="88.29126"
+           width="762.60187"
+           id="rect6452"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowPara6456">Automatically snap the second window</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6485"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-864.93013)"><flowRegion
+         style="font-size:21.33333397px"
+         id="flowRegion6481"><rect
+           style="font-size:21.33333397px"
+           id="rect6479"
+           width="762.60187"
+           height="88.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6483"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'">Existing approach</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-718.35089)"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6493"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6489"
+         style="font-size:21.33333397px"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="88.29126"
+           width="762.60187"
+           id="rect6487"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowPara6491">Window grouping</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6501"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-673.63645)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowRegion6497"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+           id="rect6495"
+           width="313.60184"
+           height="66.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">Two grouped windows</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,174.89948,-669.6677)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6509"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6505"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="190.74205"
+           width="596.44458"
+           id="rect6503"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowPara6507">Activities overview - two grouped windows</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-541.34476)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6517"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6513"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="66.29126"
+           width="313.60184"
+           id="rect6511"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowPara6515">Two grouped windows, one regular window</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6525"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,174.89948,-537.37601)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         id="flowRegion6521"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+           id="rect6519"
+           width="596.44458"
+           height="190.74205"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6523"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:50%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'">Activities overview - two grouped windows, one regular window</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0172569,-389.7382)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6533"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6529"><rect
+           y="6.1356511"
+           x="118.97072"
+           height="92.29126"
+           width="765.60187"
+           id="rect6527" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:37.33333206px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowPara6531">Initiating window snapping</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6535"
+       width="158.48543"
+       height="92.868752"
+       x="201.21609"
+       y="177.5406" />
+    <rect
+       y="177.5406"
+       x="201.21609"
+       height="4.2333288"
+       width="158.48543"
+       id="rect6537"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6545"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:55.00000119%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,155.56795)"><flowRegion
+         style="line-height:55.00000119%"
+         id="flowRegion6541"><rect
+           style="line-height:55.00000119%"
+           id="rect6539"
+           width="1009.5522"
+           height="83.149124"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:55.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell">Applications could offer &quot;view side-by-side&quot; functionality.</flowPara></flowRoot>    <rect
+       y="181.77403"
+       x="280.32605"
+       height="88.635277"
+       width="79.375702"
+       id="rect6547"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6571"
+       width="79.110756"
+       height="88.63546"
+       x="201.21609"
+       y="181.77385" />
+    <rect
+       y="176.48235"
+       x="26.590624"
+       height="92.868752"
+       width="158.48543"
+       id="rect6575"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6577"
+       width="158.48543"
+       height="4.2333288"
+       x="26.590624"
+       y="176.48235" />
+    <rect
+       y="197.11964"
+       x="44.31802"
+       height="46.302078"
+       width="70.114594"
+       id="rect6581"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#000000;stroke-width:0.26458338;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.26458332;marker:none;enable-background:new"
+       id="rect6593"
+       y="220.79994"
+       x="191.55838"
+       height="4.2333331"
+       width="4.2333336" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 194.58455,222.917 -1.51308,1.51309 c -0.0518,0.0518 -0.12254,0.0744 -0.19017,0.0744 h -0.26459 v -0.26458 c 0,-0.0676 0.0226,-0.13835 0.0744,-0.19017 l 1.13275,-1.13275 -1.13275,-1.13275 c -0.0518,-0.0518 -0.0744,-0.12254 -0.0744,-0.19017 v -0.26458 h 0.26459 c 0.0676,0 0.13834,0.0226 0.19017,0.0744 z"
+       id="path6595"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccsscscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6603"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458335,0,0,0.26458333,-5.0167066,144.1909)"><flowRegion
+         style="font-size:21.33333397px"
+         id="flowRegion6599"><rect
+           style="font-size:21.33333397px"
+           id="rect6597"
+           width="762.60187"
+           height="88.29126"
+           x="118.97072"
+           y="6.1356511" /></flowRegion><flowPara
+         id="flowPara6601"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'">Through an option in the app</flowPara></flowRoot>    <rect
+       y="207.04173"
+       x="49.212498"
+       height="6.349999"
+       width="6.349999"
+       id="rect6611"
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6613"
+       width="6.349999"
+       height="6.349999"
+       x="59.795834"
+       y="207.04173" />
+    <rect
+       y="207.04173"
+       x="70.379166"
+       height="6.349999"
+       width="6.349999"
+       id="rect6615"
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6617"
+       width="6.349999"
+       height="6.349999"
+       x="80.962494"
+       y="207.04173" />
+    <rect
+       y="207.04173"
+       x="91.545822"
+       height="6.349999"
+       width="6.349999"
+       id="rect6619"
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6621"
+       width="6.349999"
+       height="6.349999"
+       x="102.12915"
+       y="207.04173" />
+    <path
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 127.66126,215.38436 H 98.749514 l -3.756707,-3.70417 -3.756717,3.70417 H 61.515355 c -1.31921,0 -2.381247,1.06204 -2.381247,2.38125 v 34.38765 c 0,1.31921 1.062037,2.38125 2.381247,2.38125 h 66.145905 c 1.31921,0 2.38125,-1.06204 2.38125,-2.38125 v -34.38765 c 0,-1.31921 -1.06204,-2.38125 -2.38125,-2.38125 z"
+       id="path9072"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccssssssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.294052"
+       y="225.29445"
+       id="text9084"><tspan
+         style="font-size:3.70416665px;line-height:2.4000001;stroke-width:0.26458332"
+         sodipodi:role="line"
+         x="64.294052"
+         y="225.29445"
+         id="tspan9082">Open in Side-By-Side Window</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6605"
+       width="57.149998"
+       height="2.3812208"
+       x="64.558662"
+       y="230.5894" />
+    <rect
+       y="237.46858"
+       x="64.558662"
+       height="2.3812208"
+       width="46.566666"
+       id="rect6607"
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.09543571;stroke:#555753;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6609"
+       width="30.691666"
+       height="2.3812208"
+       x="64.558662"
+       y="244.87694" />
+  </g>
+</svg>
